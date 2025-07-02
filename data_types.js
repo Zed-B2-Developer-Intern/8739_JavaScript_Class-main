@@ -1,0 +1,7 @@
+console.log(typeof 42)
+console.log(typeof "WORLD")
+console.log(typeof false)
+console.log(typeof [10, 20, 30])
+console.log(typeof Symbol("TEST"))
+console.log(typeof { course: "B.Tech", branch: "ECE" })
+console.log(typeof (() => {}))
